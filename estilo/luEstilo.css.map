@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../scss/componentes.scss"],"names":[],"mappings":"AAAA;EACI","file":"luEstilo.css"}
+{"version":3,"sourceRoot":"","sources":["../scss/_header.scss"],"names":[],"mappings":"AAAA;EACI;EACA;;;AAKJ;EACI;;;AAGJ;EACI;;;AAGJ;EACI;EACA;EACA;;;AAGJ;EACI","file":"luEstilo.css"}
