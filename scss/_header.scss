@@ -1,24 +1,40 @@
 header {
     background-color: rgb(151, 151, 196);
     background: linear-gradient(90deg, rgb(131, 131, 182) 56%, rgb(42, 42, 113) 100%, rgba(117, 117, 121, 1) 100%, rgba(0, 212, 255, 1) 100%);
-}
+
+    h1 {
+        color: rgb(58, 45, 70);
+        font-weight: normal;
+        text-align: center;
+    nav {
+        div {
+            
+            .botonPropio__2 {
+
+                color: white;
+
+                     &:hover {
+                    background-color: rgb(113, 128, 185);
+
+                    }
+            
+           
+            
+            }
+
+            
+
+        
 
 
 
-.titulocolor {
-    color: rgb(10, 10, 10);
-}
+                
 
-.tamanotitulo {
-    font-size: 3.5rem;
-}
 
-h1 {
-    color: rgb(58, 45, 70);
-    font-weight: normal;
-    text-align: center;
-}
+            }
 
-.botonPropio:hover {
-    background-color: rgba(58, 95, 189, 0.963);
+
+        }
+    }
+
 }

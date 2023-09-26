@@ -13,18 +13,67 @@
 
 
     <!--link a Estilo Propio DEBAJON DEL LINK A BOOTSTRAP-->
-    <link rel="stylesheet" href="../estilo/estile.css">
+    <link rel="stylesheet" href="../estilo/luEstilo.css">
 
     <title>Login Usuario</title>
 </head>
 
-<body>
+<body class="containerInformacion">
 
-    <header>
-        <h1 class="text-center">
-            Ingreso Usuario
-        </h1>
+    <header class="encabezado">
+        <h1 class="titulocolor tamanotitulo">Aire Libre Deport<h1>
+
+                <h2 class="text-center">
+                    Ingreso Usuario
+                </h2>
+                <nav class="navbar navbar-expand-lg bg-secondary box- 1">
+                    <div class="container-fluid">
+                        <a class="navbar-brand botonPropio__2" href="../paginas/quienes-somos.html">Quiénes somos?</a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false"
+                            aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarScroll">
+                            <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll"
+                                style="--bs-scroll-height: 100px;">
+                                <li class="nav-item">
+                                    <a class="nav-link botonPropio__2" aria-current="page"
+                                        href="../paginas/mision1.html">Misión</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link botonPropio__2" aria-current="page" href="../index.html">HOME</a>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle botonPropio__2" href="../paginas/" role="button"
+                                        data-bs-toggle="dropdown" aria-expanded="false">
+                                        Quieres unirte?
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li><a class="dropdown-item botonPropio"
+                                                href="../paginas/login-Usuario.html">Usuario
+                                                Cliente</a></li>
+                                        <li><a class="dropdown-item botonPropio"
+                                                href="../paginas/colaborador2.html">Colaborador</a></li>
+                                </li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                            </ul>
+
+                            </li>
+                            <li class="nav-item"></li>
+                            </ul>
+                            <form class="d-flex" role="search">
+                                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Buscar">
+                                <button class="btn botonPropio" submit">Buscar</button>
+                            </form>
+                        </div>
+                    </div>
+                </nav>
     </header>
+
 
 
     <div class="mb-3 login">
