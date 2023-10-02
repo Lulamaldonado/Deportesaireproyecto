@@ -6,15 +6,13 @@
 
 body {
     background-image: url(../fotos/fondo.jpg);
+
 }
 
 header {
-    background-color: rgb(151, 151, 196);
-    background: linear-gradient(90deg, rgb(131, 131, 182) 56%, rgb(42, 42, 113) 100%, rgba(117, 117, 121, 1) 100%, rgba(0, 212, 255, 1) 100%);
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,0.7035189075630253) 21%, rgba(62,135,104,0.6558998599439776) 55%);
 }
-
-
-
 .titulocolor {
     color: rgb(10, 10, 10);
 }
@@ -76,8 +74,8 @@ h1 {
 }
 
 .botonPropio {
-    background-color: rgb(165, 152, 178);
-    color: rgb(94, 83, 83);
+    background-color: rgb(150, 131, 169);
+    color: white;
 }
 
 .botonPropio__2 {
@@ -86,7 +84,7 @@ h1 {
 
 h2 {
     text-align: center;
-}
+}ss
 
 .containerInformacion {
     display: grid;
