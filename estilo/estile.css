@@ -42,7 +42,7 @@ h1 {
 }
 
 .colorPropio:hover {
-    background-color: rgb(39, 236, 236);
+    background-color: rgb(250, 252, 252);
 }
 
 .botonPropio:hover {
@@ -79,7 +79,7 @@ h1 {
 }
 
 .botonPropio__2 {
-    color: white;
+    color: rgb(124, 157, 190);
 }
 
 h2 {
