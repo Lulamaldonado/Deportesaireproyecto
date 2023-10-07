@@ -7,15 +7,24 @@ header h1 {
   font-weight: normal;
   text-align: center;
 }
-header h1 nav div .botonPropio__2 {
+
+.botonPropio__2 {
   color: white;
 }
-header h1 nav div .botonPropio__2:hover {
-  background-color: rgb(113, 128, 185);
+
+.botonPropio__2:hover {
+  background-color: rgba(94, 98, 116, 0.581);
 }
 
-header div .listadoHorarios {
-  width: 425px;
+.listadoHorarios {
+  width: 500px;
+  margin: 10px auto;
+  border: #d9d7db solid 3px;
+  padding: 1rem;
+}
+
+.login {
+  width: 500px;
   margin: 10px auto;
   border: #d9d7db solid 3px;
   padding: 1rem;

@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../scss/_header.scss","../scss/_formularios.scss","../scss/_body.scss"],"names":[],"mappings":"AAAA;EACI;EACA;;AAEA;EACI;EACA;EACA;;AAKQ;EAEI;;AAEA;EACI;;;ACfhB;EACI;EACA;EACA;EACA;;;ACNZ;EACI","file":"luEstilo.css"}
+{"version":3,"sourceRoot":"","sources":["../scss/_header.scss","../scss/_formularios.scss","../scss/_body.scss"],"names":[],"mappings":"AAAA;EACI;EACA;;AAGA;EACI;EACA;EACA;;;AAMR;EAEI;;;AAIJ;EAEI;;;ACtBJ;EACE;EACA;EACA;EACA;;;AAGF;EACE;EACA;EACA;EACA;;;ACXF;EACI","file":"luEstilo.css"}
