@@ -12,6 +12,11 @@ header h1 {
   text-align: center;
 }
 
+.colorPropio {
+  color: aliceblue;
+  background-color: rgb(151, 145, 156);
+}
+
 .botonPropio__2 {
   color: white;
 }
@@ -21,13 +26,17 @@ header h1 {
 }
 
 .imagSelec {
-  opacity: 0.5;
+  opacity: 0.8;
   border-radius: 2%;
 }
 
 .imagSelec:Hover {
   opacity: 1;
   border: solid white 2px;
+}
+
+img:hover {
+  transform: scale(0.7);
 }
 
 footer {

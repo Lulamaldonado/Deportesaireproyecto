@@ -1,5 +1,5 @@
 .imagSelec {
-    opacity: 0.5;
+    opacity: 0.8;
     border-radius: 2%;
 }
 
@@ -8,5 +8,13 @@
     border: solid white 2px;
 
 }
+
+
+img:hover{
+    transform: scale(0.7);
+}
+
+
+
 
 
