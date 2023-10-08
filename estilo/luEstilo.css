@@ -1,5 +1,6 @@
 body {
   background-image: url(../fotos/fondo.jpg);
+  min-height: 100vh;
 }
 
 header {
